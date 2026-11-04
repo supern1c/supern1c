@@ -1,6 +1,6 @@
 <!-- Dark banner (works in light and dark mode) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:f5c518&height=180&section=header&text=Nico%20Ari%20Novriantoro&fontColor=f5c518&fontSize=38&fontAlignY=38&desc=Flutter%20%26%20Laravel%20Developer&descColor=ffffff&descSize=18&descAlignY=58" alt="Nico Ari Novriantoro, Flutter and Laravel Developer" />
+  Nico Ari Novriantoro, Flutter and Laravel Developer
 </p>
 
 <!-- One short typing line -->
