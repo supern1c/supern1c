@@ -1,18 +1,18 @@
 <!-- Dark banner (works in light and dark mode) -->
 <p align="center">
-  Nico Ari Novriantoro, Flutter and Laravel Developer
+  Nico Ari Novriantoro, Software Developer
 </p>
 
 <!-- One short typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=F5C518&center=true&vCenter=true&width=520&lines=Building+mobile+apps+from+Bandung;Flutter+%C2%B7+Riverpod+%C2%B7+Laravel" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=F5C518&center=true&vCenter=true&width=520&lines=Building+mobile+and+web+apps+from+Bandung;Flutter+%C2%B7+Riverpod+%C2%B7+Laravel" alt="Typing animation" />
 </p>
 
 ---
 
 ## 🦇 The Dark Knight of Code
 
-Flutter & Laravel developer with **5+ years** of experience. I've shipped HR SaaS mobile apps, digital signage systems for train stations, and an omnichannel sales platform with real-time marketplace sync.
+Software Developer developer with **5+ years** of experience. I've shipped HR SaaS mobile apps, digital signage systems for train stations, and an omnichannel sales platform with real-time marketplace sync.
 
 📍 Bandung, Indonesia &nbsp;|&nbsp; 🎯 Open to **Flutter / mobile** roles (frontend and backend welcome), in **Bandung** or **remote**
 
@@ -46,8 +46,7 @@ Flutter & Laravel developer with **5+ years** of experience. I've shipped HR Saa
 
 ## 🔦 Active Cases
 
-- Improving my testing and CI/CD workflow with GitHub Actions
-- Currently learning ...
+- Currently improving myself ...
 
 <!-- Optional: uncomment once you have more public repos
 <p align="center">
