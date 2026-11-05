@@ -1,6 +1,5 @@
-<!-- Dark banner (works in light and dark mode) -->
 <p align="center">
-  Nico Ari Novriantoro, Software Developer
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0%3A0d0d0d%2C100%3Af5c518&section=header&reversal=false&text=Nico+Ari+Novriantoro&textBg=false&fontColor=f5c518&fontSize=38&fontAlign=50&fontAlignY=38&rotate=0&stroke=f5c518&strokeWidth=0&desc=Software+Developer&descSize=18&descAlign=50&descAlignY=58" alt="Nico Ari Novriantoro, Software Developer" />
 </p>
 
 <!-- One short typing line -->
