@@ -9,7 +9,7 @@
 
 ---
 
-## 🦇 The Dark Knight of Code
+## 🦇 The Dark Knight of Brooding
 
 Software Developer developer with **5+ years** of experience. I've shipped HR SaaS mobile apps, digital signage systems for train stations, and an omnichannel sales platform with real-time marketplace sync.
 
